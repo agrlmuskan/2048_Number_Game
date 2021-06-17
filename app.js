@@ -1,6 +1,3 @@
-const app = express();
-const port = 4000;
-
 // Allowed keyboard keys for the movement
 var keyCodes = {
 	37: "left",
